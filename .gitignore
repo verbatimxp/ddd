@@ -1,0 +1,14 @@
+*.sln
+*.pyc
+*.log
+.vs
+.idea
+__pycache__
+settings_local.py
+.DS_Store
+obj
+bin
+virtual_env
+logs.log
+frontend/node_modules/
+
